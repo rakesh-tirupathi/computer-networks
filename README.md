@@ -1,2 +1,2 @@
 # computer-networks
-C++ implementation of TCP and UDP relay/proxy server using sockets, C++ implementation of HTTP relay server using TCP sockets and how the server uses fork/thread to implement the several processes.
+Takes request from the user/browser and then sends the request to the destination server via a proxy/relay server and waits to receive a response from the destination server and echo back to the original server.
